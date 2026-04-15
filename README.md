@@ -51,3 +51,5 @@ Zenn doesn't have a REST API for publishing (unlike Qiita). The canonical workfl
 - **Zenn profile**: https://zenn.dev/colonistone
 - **The Colony**: https://thecolony.cc
 - **Interactive agent setup wizard**: https://col.ad
+
+<!-- triggered Zenn sync 2026-04-15 -->
